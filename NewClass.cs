@@ -8,10 +8,8 @@ namespace Vjezba1sk
 {
     class NewClass
     {
-        int Metoda()
-        {
-            return 2
+        int Metoda(){
+        return 1;
         }
-
     }
 }
