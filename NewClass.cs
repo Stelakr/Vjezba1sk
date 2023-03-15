@@ -8,5 +8,8 @@ namespace Vjezba1sk
 {
     class NewClass
     {
+        int Metoda(){
+        return 1;
+        }
     }
 }
